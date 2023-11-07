@@ -1,0 +1,73 @@
+
+   .navbar {
+    background-color: rgb(56, 170, 187);
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  body {
+    overflow-x: hidden; 
+  }
+
+  .navbar .center-content svg {
+    color: white;
+    
+  }
+    
+  
+  .menu ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .menu li {
+    margin: 0 10px;
+  }
+
+  body {
+    overflow-x: hidden; 
+  }
+  
+  .menu a {
+    text-decoration: none;
+  }
+  
+  .center-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .shoppers-spot {
+    margin-right: 300px;
+    /* font-weight: bold; */
+    color: white;
+    font-size:xx-large;
+  }
+  
+  .search-bar {
+    width: 200px;
+    margin-right: 0px;
+    border: none;
+    height: 30px;
+    width: 300px;
+    margin-right: 10px;
+  }
+
+  .like-symbol,
+.cart-symbol,
+.contact-symbol {
+  margin-left: 25px; /* Adjust the margin value for your desired spacing */
+}
+
+.navbar .center-content svg {
+  color: white;
+}
+  
+  
